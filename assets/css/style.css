@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    margin: 0;
+    padding: 0;
+}
+
+.contacto{
+    background-color: #28A745;
+    height: 248px;
+    align-items: center;
+    
+}
+
+.input_grupo{
+   height: 40px;
+   width: 320px;
+} 
+
+footer{
+    height: 118px;
+}
+
+.navbar-toggler {
+    border-color: #FFFFFF80;
+  } 
+
+.navbar-toggler-icon{
+    border-color: rgb(0, 0, 0);
+}
+
+.card-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.nombre_empresa{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+    margin-bottom: 0;
+}
+
+.ubicacion{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    color: #707070;
+    margin-bottom: 0;
+}
+
+.card-body{
+    padding-bottom: 0;
+}
+
+.precio_normal{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+}
+
+.precio_oferta{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: green;
+}
+
+.btn{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    width: 112px;
+    height: 40px;
+}
+
+.input_contacto{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.cupones{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 21px;
+    color: white;
+    padding-bottom: 1px;
+}
+
+.footer_parrafo{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+}
